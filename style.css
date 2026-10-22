@@ -23,3 +23,6 @@ main{background:rgba(255,255,255,.93);backdrop-filter:blur(6px);box-shadow:0 10p
 footer{color:#ddd}
 @media(max-width:600px){.hero{margin:-20px -20px 8px;padding:36px 20px 28px}}
 @media(prefers-reduced-motion:reduce){.fondo-capa{transition:none}}
+.logo img{display:block;height:44px;width:auto}header .logo{padding:2px 0}
+.hero-logo{display:block;max-width:240px;width:60%;height:auto;margin:0 0 12px}
+footer{max-width:820px;margin:0 auto;line-height:1.5}
